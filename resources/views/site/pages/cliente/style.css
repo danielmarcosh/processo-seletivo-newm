@@ -1,0 +1,28 @@
+.client-container {
+    background-color: #fff;
+    border: 1px solid #0b3a66;
+    border-radius: 5px;
+    width: 400px;
+    max-width: 500px;
+}
+
+#client-head {
+    background-color: #0b3a66;
+    color: #f8f9fa;
+}
+
+#app-fab {
+    position: fixed;
+    z-index: 100;
+    bottom: 16px;
+    right: 24px;
+}
+
+.handle {
+    float: right;
+}
+
+.btn-icon {
+    font-size: 4em;
+    color: #0b3a66;
+}
