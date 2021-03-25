@@ -46,14 +46,12 @@ PRIMARY KEY(id)
 Entrar com os dados do Banco de dados no arquivo .env que fica no diretorio raiz do projeto "newm"
 Exemplo:
 
-`
 - DB_CONNECTION=mysql
 - DB_HOST=127.0.0.1
 - DB_PORT=3306
 - DB_DATABASE=newm
 - DB_USERNAME=root
 - DB_PASSWORD=
-`
 
 Ainda dentro do diretorio raiz pelo terminal, rodar os comandos faltantes
 
